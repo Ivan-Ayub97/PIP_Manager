@@ -10,7 +10,7 @@ Pip Manager is a versatile desktop application designed to streamline the manage
 
 For inquiries or feedback, contact me at: [sellocasadenubes@gmail.com](sellocasadenubes@gmail.com).
 
-![Pip Manager Icon](iconPIPManager.png)
+![Pip Manager Icon](IconPIPManager.png)
 
 ---
 
