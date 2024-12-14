@@ -1,5 +1,5 @@
 # Pip Manager
-Developed by Ivan Ayub
+Developed by Iván Ayub
 
 Pip Manager is a versatile desktop application designed to streamline the management of Python libraries. With its intuitive interface, users can easily install, update, and remove libraries, as well as view detailed information about installed packages.
 
