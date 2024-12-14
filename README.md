@@ -6,7 +6,7 @@ Pip Manager is a versatile desktop application designed to streamline the manage
 ---
 
 ## Download
-[Click here to download the EXE application from Google Drive (.zip)](https://example.com/download-link)
+[Click here to download the EXE application from Google Drive (.zip)](https://drive.google.com/file/d/13nTmZBnMjJdPw9GkJiYieC9zOTsjovup/view?usp=sharing)
 
 For inquiries or feedback, contact me at: [sellocasadenubes@gmail.com](sellocasadenubes@gmail.com).
 
